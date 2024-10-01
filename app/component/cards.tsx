@@ -56,7 +56,7 @@ const Card2 = () => (
     {/* text in the top  */}
     <div className="flex text-center p-4  m-3 flex-col gap-1 ">
       <h1 className="text-[36px] p-2 leading-[48px] ">
-        You're in great company.
+        You are in great company.
       </h1>
       <p className="text-[24px] leading-[32px] text-F_light_gray ">
         500+ customers all around the globe use ScrapingBee to solve their web
