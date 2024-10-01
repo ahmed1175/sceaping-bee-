@@ -17,7 +17,7 @@ const CardSection = () => (
             height={200}
           />
         </div>
-        <div className="">
+        <div >
           <h1 className="text-[36px] font-semibold tracking-normal text-center leading-[48px]">
             {item.name}
           </h1>
@@ -54,7 +54,7 @@ const ContactUs = () => {
             Contact us
           </h1>
           <h1 className="text-[24px] leading-[42px] ">
-            Got any questions? Don't hesitate to reach
+            Got any questions? Do not hesitate to reach
           </h1>
           <button className="bg-bg_black text-white p-4 rounded-md text-[20px] font-semibold   hover:opacity-95 duration-300">
             Get in touch
